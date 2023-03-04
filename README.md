@@ -6,7 +6,7 @@ Learn CSS Animations by Building a Ferris Wheel
 
 ![Preview](preview.png)
 
-# What I learned
+# CSS properties learned
 
 - The `transform-origin` property is used to set the point around which a CSS transformation is applied.
 - The `@keyframes` at-rule is used to define the flow of a CSS animation. Within the `@keyframes` rule, you can create selectors for specific points in the animation sequence, such as `0%` or `25%`, or use `from` and `to` to define the start and end of the sequence.
@@ -17,6 +17,8 @@ Learn CSS Animations by Building a Ferris Wheel
 - The `animation-timing-function`
  property sets how the animation should progress over time.
 - `animation` can set all four properties mentioned above.
+
+For more information about these properties, visit [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
 
 # Conclusion
 
